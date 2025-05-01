@@ -1,0 +1,4 @@
+﻿  NguyenPhuocAn_projectck2_nhom3.cpp
+D:\workspace\DSA\project_ck2\NguyenPhuocAn_projectck2_nhom3\NguyenPhuocAn_projectck2_nhom3\NguyenPhuocAn_projectck2_nhom3.cpp(162,9): warning C4778: 'printf' : unterminated format string '%'
+D:\workspace\DSA\project_ck2\NguyenPhuocAn_projectck2_nhom3\NguyenPhuocAn_projectck2_nhom3\NguyenPhuocAn_projectck2_nhom3.cpp(306,8): warning C4101: 'fi': unreferenced local variable
+  NguyenPhuocAn_projectck2_nhom3.vcxproj -> D:\workspace\DSA\project_ck2\NguyenPhuocAn_projectck2_nhom3\x64\Debug\NguyenPhuocAn_projectck2_nhom3.exe
