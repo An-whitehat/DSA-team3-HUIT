@@ -1,0 +1,4 @@
+﻿  ManageCar_project.cpp
+D:\workspace\DSA\project_ck2\project_nhom3\ManageCar_project\ManageCar_project\ManageCar_project.cpp(103,9): warning C4778: 'printf' : unterminated format string '%'
+D:\workspace\DSA\project_ck2\project_nhom3\ManageCar_project\ManageCar_project\ManageCar_project.cpp(1399,8): warning C4101: 'fi': unreferenced local variable
+  ManageCar_project.vcxproj -> D:\workspace\DSA\project_ck2\project_nhom3\ManageCar_project\x64\Debug\ManageCar_project.exe
